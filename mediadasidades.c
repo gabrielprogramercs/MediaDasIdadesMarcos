@@ -13,7 +13,7 @@ int main() {
         soma = soma + idade;
         quantidade = quantidade + 1;
 
-        
+        printf("digite as idades (0 para encerrar):\n");
         scanf("%d", &idade);
     }
 
